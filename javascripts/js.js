@@ -68,7 +68,7 @@ $(".lanceicon, .flameicon, .headicon, .weighticon, .lightningicon, .eyeicon").cl
       }, 7000);
       setTimeout(function() {
          $(".icons").css("animation-play-state", "paused");
-       }, 8950);
+       }, 9000);
      $(".person2").css("animation-play-state", "running");
      setTimeout(function() {
         $(".person2").css("animation-play-state", "paused");
