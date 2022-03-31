@@ -1225,14 +1225,6 @@
                     }
 }
 
-@media only screen and (min-device-width: 760px) and (max-device-width: 800px) and (orientation: portrait) {
-  /* iPad Portrait */
-
-}
-
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
-  /* iPad Landscape */
-}
 
 @media only screen and (min-device-width: 340px) and (max-device-width: 399px) and (orientation: portrait) {
   /* Android Portrait */
@@ -1316,8 +1308,9 @@
       width: 70%;
     }
     #starticon1{
+      margin-left: 4%;
       text-align: center;
-      margin-top: -120%;
+      margin-top: -105%;
       position: relative;
       animation: start 4000ms linear infinite;
           animation-timing-function: ease-in-out;
@@ -2538,6 +2531,7 @@
       width: 70%;
     }
     #starticon1{
+      margin-left: 4%;
       text-align: center;
       margin-top: -120%;
       position: relative;
