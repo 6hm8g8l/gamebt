@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 456 589" style="enable-background:new 0 0 456 589;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#6E6D71;}
+	.st2{fill:#993626;}
+	.st3{fill:#EFEFEF;}
+</style>
+<rect x="186.2" y="364.6" class="st0" width="26.6" height="224.4"/>
+<polygon class="st0" points="133,364.6 133,589 0,589 0,252.4 26.6,252.4 26.6,280.5 53.2,280.5 53.2,308.5 79.8,308.5 79.8,336.6 
+	106.4,336.6 106.4,364.6 "/>
+<polygon class="st0" points="106.4,197.3 106.4,281.5 79.8,281.5 79.8,253.4 53.2,253.4 53.2,225.4 79.8,225.4 79.8,197.3 "/>
+<polygon class="st0" points="345.8,225.4 345.8,253.4 319.2,253.4 319.2,281.5 292.6,281.5 292.6,197.3 319.2,197.3 319.2,225.4 "/>
+<polygon class="st0" points="0,1 133,1 133,141.2 79.8,141.2 79.8,169.3 53.2,169.3 53.2,198.3 26.6,198.3 26.6,225.4 0,225.4 "/>
+<rect x="159.6" y="57.1" class="st0" width="26.6" height="28"/>
+<rect x="212.8" y="57.1" class="st0" width="26.6" height="28"/>
+<polygon class="st0" points="399,1 399,224.4 372.4,224.4 372.4,197.3 345.8,197.3 345.8,169.3 319.2,169.3 319.2,141.2 266,141.2 
+	266,1 "/>
+<polygon class="st1" points="376,365 376,390 349,390 349,439 293,439 293,464 266,464 266,365 "/>
+<polygon class="st0" points="399,252.4 399,589 266,589 266,464 293,464 293,439 349,439 349,390 376,390 376,365 266,365 
+	266,364.6 292.6,364.6 292.6,336.6 319.2,336.6 319.2,308.5 345.8,308.5 345.8,280.5 372.4,280.5 372.4,252.4 "/>
+<path class="st2" d="M372.4,224.4v-27.1h-26.6v-28h-26.6v-28H266V1H133v140.2H79.8v28H53.2v29H26.6v27.1H0v27h26.6v28h26.6v28h26.6
+	v28.1h26.6v28H133V589h53.2V364.6h26.6V589H266V464h0v-99h0v-0.4h26.6v-28h26.6v-28.1h26.6v-28h26.6v-28H399v-28H372.4z M239.4,85.1
+	h-26.6v-28h26.6V85.1z M159.6,57.1h26.6v28h-26.6V57.1z M106.4,281.5H79.8v-28H53.2v-28h26.6v-28h26.6V281.5z M345.8,253.4h-26.6v28
+	h-26.6v-84.1h26.6v28h26.6V253.4z"/>
+<rect y="224.4" class="st2" width="26.6" height="1"/>
+<rect x="53.2" y="252.4" class="st2" width="26.6" height="1"/>
+<rect x="79.8" y="280.5" class="st2" width="26.6" height="1"/>
+<rect x="292.6" y="280.5" class="st2" width="26.6" height="1"/>
+<rect x="319.2" y="252.4" class="st2" width="26.6" height="1"/>
+<rect x="266" y="448.7" class="st2" width="0" height="15.3"/>
+<rect x="266" y="420.7" class="st2" width="0" height="28"/>
+<rect x="266" y="392.7" class="st2" width="0" height="28"/>
+<rect x="266" y="365" class="st2" width="0" height="27.7"/>
+<rect x="212.8" y="57.1" class="st3" width="26.6" height="28"/>
+<rect x="159.6" y="57.1" class="st3" width="26.6" height="28"/>
+<path class="st1" d="M349,439h27v25h-27V439z"/>
+<path class="st1" d="M376,464h28v25h-28V464z"/>
+<path class="st1" d="M400,489h28v25h-28V489z"/>
+<path class="st1" d="M428,514h28v25h-28V514z"/>
+</svg>
