@@ -182,7 +182,7 @@ body{
   width: 100%;
   position: absolute;
   margin-top: 10%;
-  animation: icons 4000ms linear infinite ;
+  animation: icons 4000ms infinite ;
     animation-play-state: paused;
 }
 @keyframes icons {
